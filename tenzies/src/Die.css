@@ -1,0 +1,15 @@
+.die {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4em;
+  height: 4em;
+  background-color: tomato;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.die-green {
+  background-color: #59e391;
+}
